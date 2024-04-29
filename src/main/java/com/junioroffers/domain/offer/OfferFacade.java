@@ -6,7 +6,6 @@ import com.junioroffers.domain.offer.dto.OfferResponseDto;
 
 import com.junioroffers.domain.offer.exceptions.OfferNotFoundException;
 import lombok.AllArgsConstructor;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
